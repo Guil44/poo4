@@ -1,0 +1,16 @@
+{
+    "name": "guillaume/poo3",
+    "description": "",
+    "authors": [
+        {
+            "name": "guillaume",
+            "email": "guillaumearnaud38@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4": {
+            "App\\": "src/Model"
+        }
+    }
+}
